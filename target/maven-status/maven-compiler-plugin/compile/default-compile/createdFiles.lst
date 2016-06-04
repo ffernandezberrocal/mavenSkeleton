@@ -1,0 +1,5 @@
+com\cuatroytres\pshub\config\SecurityConfiguration.class
+com\cuatroytres\pshub\config\SpringMvcInitializer.class
+com\cuatroytres\pshub\control\HomeController.class
+com\cuatroytres\pshub\config\SecurityWebApplicationInitializer.class
+com\cuatroytres\pshub\config\ScanResolvConfiguration.class
